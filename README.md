@@ -11,6 +11,8 @@ I presented GPT-2 training-stability research at **ICST 2026, IIT Patna**.
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=flat&logo=vercel&logoColor=white)](https://portfolio-prasanna-seven.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-madiwar-507462318/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/LzLJWzHwdb/)
+[![TakeUForward](https://img.shields.io/badge/TakeUForward-1E1E1E?style=flat&logoColor=white)](https://takeuforward.org/profile/prasannamadiwar)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/prasanna_m146)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasannamadiwar71@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/prasannamadiwar71)
 
@@ -86,7 +88,7 @@ I presented GPT-2 training-stability research at **ICST 2026, IIT Patna**.
 
 ## 🧩 Problem Solving
 
-**350+** problems on [LeetCode](https://leetcode.com/u/LzLJWzHwdb/) · **460+** on TakeUForward
+**350+** problems on [LeetCode](https://leetcode.com/u/LzLJWzHwdb/) · **460+** on [TakeUForward](https://takeuforward.org/profile/prasannamadiwar) · Profile on [CodeChef](https://www.codechef.com/users/prasanna_m146)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/LzLJWzHwdb?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap)](https://leetcode.com/u/LzLJWzHwdb/)
 
