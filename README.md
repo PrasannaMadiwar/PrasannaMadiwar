@@ -88,7 +88,7 @@ I presented GPT-2 training-stability research at **ICST 2026, IIT Patna**.
 
 ## 🧩 Problem Solving
 
-**350+** problems on [LeetCode](https://leetcode.com/u/LzLJWzHwdb/) · **460+** on [TakeUForward](https://takeuforward.org/profile/prasannamadiwar) · Profile on [CodeChef](https://www.codechef.com/users/prasanna_m146)
+**350+** problems on [LeetCode](https://leetcode.com/u/LzLJWzHwdb/) · **460+** on [TakeUForward](https://takeuforward.org/profile/prasannamadiwar) · **1600+** DSA rating and **1000+** contest rating on [CodeChef](https://www.codechef.com/users/prasanna_m146)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/LzLJWzHwdb?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap)](https://leetcode.com/u/LzLJWzHwdb/)
 
